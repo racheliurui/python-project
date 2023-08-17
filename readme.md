@@ -17,7 +17,7 @@ python3 -m venv .venv
 * specify enviornment 
 Command Palette (⇧⌘P).
 
-[image](/image/env.png)
+![image](/image/env.png)
 
 * relaunch the terminal
 
